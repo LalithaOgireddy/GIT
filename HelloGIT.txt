@@ -1,2 +1,1 @@
 Hello Today is 23rd Sep,2024 and I am learning GIT.
-Week 39 is for GIT.
